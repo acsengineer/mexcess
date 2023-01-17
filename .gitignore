@@ -1,0 +1,13 @@
+# secret
+.env
+!db/
+db/*
+
+# environment
+requirements_manual.txt
+venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.log
