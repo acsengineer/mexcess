@@ -1,7 +1,5 @@
 # secret
 .env
-!db/
-db/*
 
 # environment
 requirements_manual.txt
